@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>	
+	<head>
+		<title>Ruby on Rails Tutorial App | Home</title>
+	</head>
+<h1>Pages#home</h1>
+<p>Find me in app/views/pages/home.html.erb</p>
+</html>
