@@ -1,0 +1,2 @@
+<h1><%= @user.name %>
+<%= gravatar_image_tag 'nikhilsama@gmail.com' %></h1> <%= @user.email %>
